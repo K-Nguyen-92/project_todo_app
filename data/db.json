@@ -1,0 +1,46 @@
+{
+  "notes": [
+    {
+      "id": "b91a",
+      "title": "Testing",
+      "details": "osjidofjaisgjopfkansdgklnsdfgsfsdfasdf",
+      "category": "todos"
+    },
+    {
+      "id": "0914",
+      "title": "Work stuf",
+      "details": "this is a naosdngiojanhfognasdo;kfnmoaskmfoamsoaosgoamgkmdflmaksmfksadfasdfasgagasdf",
+      "category": "work"
+    },
+    {
+      "id": "3aca",
+      "title": "fsdgfadfg",
+      "details": "asdfasdfsadf",
+      "category": "reminder"
+    },
+    {
+      "id": "fad3",
+      "title": "asdgsadgasdfasfasdf",
+      "details": "asdfasdf",
+      "category": "todos"
+    },
+    {
+      "id": "55c9",
+      "title": "test thing",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil iste magni dolor recusandae quam, dicta rerum? Facere odio tenetur animi aut unde itaque reiciendis maxime, nobis placeat natus, magnam voluptatem.",
+      "category": "work"
+    },
+    {
+      "id": "29cf",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil iste magni dolor recusandae quam, dicta rerum? Facere odio tenetur animi aut unde itaque reiciendis maxime, nobis placeat natus, magnam voluptatem.",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil iste magni dolor recusandae quam, dicta rerum? Facere odio tenetur animi aut unde itaque reiciendis maxime, nobis placeat natus, magnam voluptatem.",
+      "category": "todos"
+    },
+    {
+      "id": "5730",
+      "title": "asdfasd",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil iste magni dolor recusandae quam, dicta rerum? Facere odio tenetur animi aut unde itaque reiciendis maxime, nobis placeat natus, magnam voluptatem.Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil iste magni dolor recusandae quam, dicta rerum? Facere odio tenetur animi aut unde itaque reiciendis maxime, nobis placeat natus, magnam voluptatem.Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil iste magni dolor recusandae quam, dicta rerum? Facere odio tenetur animi aut unde itaque reiciendis maxime, nobis placeat natus, magnam voluptatem.Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil iste magni dolor recusandae quam, dicta rerum? Facere odio tenetur animi aut unde itaque reiciendis maxime, nobis placeat natus, magnam voluptatem.",
+      "category": "todos"
+    }
+  ]
+}
